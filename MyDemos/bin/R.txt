@@ -190,6 +190,7 @@ int drawable ssdk_oks_title_back 0x7f0200a6
 int drawable ssdk_oks_title_shadow 0x7f0200a7
 int drawable ssdk_oks_yaoyiyao 0x7f0200a8
 int drawable ssdk_title_div 0x7f0200a9
+int id action_settings 0x7f09004a
 int id actionbarLayout 0x7f090035
 int id atDescTextView 0x7f090041
 int id atLayout 0x7f09003c
@@ -293,6 +294,7 @@ int layout ssdk_oks_skyblue_editpage_inc_image_layout 0x7f030019
 int layout ssdk_oks_skyblue_share_actionbar 0x7f03001a
 int layout ssdk_oks_skyblue_share_platform_list 0x7f03001b
 int layout ssdk_oks_skyblue_share_platform_list_item 0x7f03001c
+int menu main 0x7f0b0000
 int string action_settings 0x7f060001
 int string app_name 0x7f060000
 int string hello_world 0x7f060002

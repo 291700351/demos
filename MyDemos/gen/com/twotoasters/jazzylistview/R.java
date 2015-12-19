@@ -11,6 +11,7 @@ public final class R {
 		public static final int fade = 0x7f09000c;
 		public static final int standard = 0x7f090000;
 		public static final int tilt = 0x7f09000a;
+		public static final int action_settings = 0x7f09004a;
 		public static final int reverse_fly = 0x7f090007;
 		public static final int curl = 0x7f090003;
 		public static final int fan = 0x7f090009;
@@ -28,6 +29,12 @@ public final class R {
 		public static final int action_settings = 0x7f060001;
 		public static final int app_name = 0x7f060000;
 		public static final int hello_world = 0x7f060002;
+	}
+	public static final class menu {
+		public static final int main = 0x7f0b0000;
+	}
+	public static final class layout {
+		public static final int activity_main = 0x7f03000c;
 	}
 	public static final class styleable {
 		public static final int[] JazzyListView = { 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008 };

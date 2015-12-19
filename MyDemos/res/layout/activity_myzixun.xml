@@ -1,50 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical" >
-
-    <!-- <include layout="@layout/title_bar" /> -->
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#fff"
-        android:orientation="horizontal"
-        android:padding="8dp" >
-
-        <TextView
-            android:id="@+id/tv_guid1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1.0"
-            android:gravity="center"
-            android:text="电话咨询"
-            android:textSize="15sp" />
-
-        <TextView
-            android:id="@+id/tv_guid2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1.0"
-            android:gravity="center"
-            android:text="文字咨询"
-            android:textSize="15sp" />
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="#ffffffff" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/tv_guid1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="电话咨询" android:layout_weight="1.0" />
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/tv_guid2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="文字咨询" android:layout_weight="1.0" />
     </LinearLayout>
-
-    <ImageView
-        android:id="@+id/cursor"
-        android:layout_width="wrap_content"
-        android:layout_height="2dp"
-        android:background="#f00"
-        android:scaleType="matrix" />
-
-    <android.support.v4.view.ViewPager
-        android:id="@+id/viewpager"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:flipInterval="30"
-        android:persistentDrawingCache="animation" />
-
+    <ImageView android:id="@id/cursor" android:background="#ffff0000" android:layout_width="wrap_content" android:layout_height="2.0dip" android:scaleType="matrix" />
+    <android.support.v4.view.ViewPager android:id="@id/viewpager" android:persistentDrawingCache="animation" android:layout_width="fill_parent" android:layout_height="fill_parent" android:flipInterval="30" />
 </LinearLayout>

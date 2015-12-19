@@ -330,6 +330,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ssdk_title_div=0x7f0200a9;
     }
     public static final class id {
+        public static final int action_settings=0x7f09004a;
         public static final int actionbarLayout=0x7f090035;
         public static final int atDescTextView=0x7f090041;
         public static final int atLayout=0x7f09003c;
@@ -435,6 +436,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ssdk_oks_skyblue_share_actionbar=0x7f03001a;
         public static final int ssdk_oks_skyblue_share_platform_list=0x7f03001b;
         public static final int ssdk_oks_skyblue_share_platform_list_item=0x7f03001c;
+    }
+    public static final class menu {
+        public static final int main=0x7f0b0000;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
@@ -584,6 +588,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
 
         
+
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    
+ API 11 theme customizations can go here. 
+
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    
+ API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 

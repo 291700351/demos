@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical" >
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:orientation="vertical" >
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Hello World"
-            android:textColor="#000"
-            android:textSize="28sp"
-            android:textStyle="italic" />
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="28.0sp" android:textStyle="italic" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello World" />
     </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/root"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:orientation="vertical" >
-
-        <ImageView
-            android:id="@+id/iv_egg"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_marginBottom="50dp"
-            android:layout_marginRight="20dp"
-            android:background="@anim/jindan" />
+    <LinearLayout android:orientation="vertical" android:id="@id/root" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/iv_egg" android:background="@anim/jindan" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="50.0dip" />
     </LinearLayout>
-
 </RelativeLayout>

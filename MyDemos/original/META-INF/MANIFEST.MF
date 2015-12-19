@@ -1,0 +1,620 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper.png
+SHA1-Digest: UQhfUim8A/vWb8xJlXoGtV6oiWg=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebookmessenger.png
+SHA1-Digest: 2T0MPMgUUz04KqzmxjylWtMqXJ8=
+
+Name: res/drawable-xhdpi/ssdk_title_div.png
+SHA1-Digest: DloK2NAixcsnyoNpzHoN1vuEAzU=
+
+Name: res/drawable-hdpi/p2.png
+SHA1-Digest: ulb4rEsmI3ikw1G1TaUd/AWfIbQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage.png
+SHA1-Digest: 4H/bO7i2hEzasr4BNgRhFtXdOoE=
+
+Name: res/drawable/shape_btn_red.xml
+SHA1-Digest: CAZ6Czar5hXycwor/5Fx3xuLpcE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin_checked.png
+SHA1-Digest: PUsGUKPuDbXMz4/ulmuOd0aKYMA=
+
+Name: res/layout/activity_animationlist.xml
+SHA1-Digest: 99DJxgydI+Wf9VCSIZFN1AgiN8c=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixinmoments.png
+SHA1-Digest: yOHeCDuZ4Pny/1OCO+L9w4wMick=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp.png
+SHA1-Digest: V4SuhcRDn2KPSJviLDwrwVXXOYE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tencentweibo.png
+SHA1-Digest: KVTIckfY7uUyZjVp183pl2qwZpY=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list.xml
+SHA1-Digest: +OgwHButgD2hgtpxKJe0L29eQv0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare_checked.png
+SHA1-Digest: 3bEAfxNrUGTOXpnsanHFcoJr+X0=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao_checked.png
+SHA1-Digest: BwZDgwOJUq9rMdFUQFJpY9/47KI=
+
+Name: res/drawable/selector_btn.xml
+SHA1-Digest: JfadZxoz34+Q1ZKQ98q4FGVhXfs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus.png
+SHA1-Digest: Al/Nd4VJNLC7stWPPWV2Hencdsg=
+
+Name: res/layout/activity_channel.xml
+SHA1-Digest: ljllgMI8cKFbS0CNShva1cR2rBE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_shortmessage.png
+SHA1-Digest: a2Tz3Cg/Bly7PHtb/frO8yH/Ybk=
+
+Name: res/drawable-hdpi/ssdk_oks_ptr_ptr.png
+SHA1-Digest: 9kd0AO5yW4Cw2dCQSVxHH0y4eCM=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/layout/activity_success.xml
+SHA1-Digest: iT+LOtetiYbUC2gYhb0B7FqxYvs=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sohusuishenkan.png
+SHA1-Digest: /wnkEd+7eD35JRHXdIpZWWAvf/k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo.png
+SHA1-Digest: MZ3KM28yNE+sGubfQBDnkcInsz8=
+
+Name: res/drawable-xhdpi/ssdk_logo.png
+SHA1-Digest: HIt2w5nGrGRMEzuoWuXFFeykfU4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_divider.9.png
+SHA1-Digest: wWcCnRoRMdFsRpYyHE+UUu3eb+A=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr_checked.png
+SHA1-Digest: y3p5uPOSqhbFeG6nCl9ou2JzI3k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone_checked.png
+SHA1-Digest: SpfYFk2S7oJ4oi/clGdsZV/mQ8Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin.png
+SHA1-Digest: 1duZDOqYL6UtSAz/Tv9DYP26cVw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments.png
+SHA1-Digest: 8m1ULKBSeNtOu4DwcBdpK+sSb8A=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatfavorite.png
+SHA1-Digest: TU1DRxLXD0h5Pqj0DuEQmhzmWGk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk_checked.png
+SHA1-Digest: VBWHAahQ2QFTYlPRW+DqQi2+xTQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sinaweibo.png
+SHA1-Digest: CsfppKIyRI6USroAlDnRYR3ptEA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pinterest.png
+SHA1-Digest: V+j2izib2w7IeIZxgFbLOivyrDg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_back_btn.png
+SHA1-Digest: P16+zxy9aQLYvjckxI/moudVZTU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin_checked.png
+SHA1-Digest: +BFKzibOJB7FxmdhaqhQYv4ciHM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments.png
+SHA1-Digest: SGt1zgBgxmC3hEf1gbkC3fpagdA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_foursquare.png
+SHA1-Digest: u2Wxcxc96GE/pg+7IjUn6WPjn8M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper_checked.png
+SHA1-Digest: Npv7k1Ej/dq1H39q1aOZaDfw/K0=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_whatsapp.png
+SHA1-Digest: 2i3QuMmwTysY42uYxYZq5SFGIF4=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: MW3XU8adRw+unQjgBX2XuSAf11M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren_checked.png
+SHA1-Digest: Mf3ZNqa532NbKelQoiM9z5mRWE8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments_checked.p
+ ng
+SHA1-Digest: q4emQ6Ys2q95U3GIH0dDqX//XvM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone.png
+SHA1-Digest: BMcbBzK4BPlDZnSg+vjRpirKnUQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket.png
+SHA1-Digest: UgYdb/0e+hJZlg1oxOlk9OhomDU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket_checked.png
+SHA1-Digest: 8+uA/a75AuZf5ngwKR22gujSpp0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email_checked.png
+SHA1-Digest: KdYmSgB2ykwuttgvpDLqNfnI0wc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo_checked.png
+SHA1-Digest: Kulfk871JU3GtJcYNIc2qrDhwIU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte_checked.png
+SHA1-Digest: Mx0LwTzcD87CVXlCrXGLu/QeNqE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin.png
+SHA1-Digest: bk+CKdBTkZYc/Od7LgK+Gjetvs8=
+
+Name: res/drawable-hdpi/p5.png
+SHA1-Digest: lfgAwp3OxIHIGMDGbRgKl1yGS8s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked.png
+SHA1-Digest: xbJ+ymhGGTrPNyqOFtWZ+ls29tY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq_checked.png
+SHA1-Digest: u09N4J8C72y3OY3OPkdHKgBzYTY=
+
+Name: res/drawable/shape_btn_gray.xml
+SHA1-Digest: dDHxxexrXVvNntp8uBowbs4JhXE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line_checked.png
+SHA1-Digest: 1lSlUV9JRR2dW79IvD4Qen9kuqg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao_checked.png
+SHA1-Digest: 0SWOssntLSdzKqNIor3aEh+rmzM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter.png
+SHA1-Digest: eihcoRBDg1aU0w/5JyZMRXn8dOQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaotalk.png
+SHA1-Digest: QImJj+u+8YoY3je666hdD0+HePQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_alipay.png
+SHA1-Digest: ynNnUUJj1QHrcPhL7peZTjHJKB0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox_checked.png
+SHA1-Digest: L8uHeHUe7yBwKmbczBjgijBEinM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr_checked.png
+SHA1-Digest: Zp/VlQ1rjH8B0Id3ztLV45RguP8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote.png
+SHA1-Digest: 0DGl6QNxUlv6RgGSBQLWcv8Kr1U=
+
+Name: res/layout/activity_notice.xml
+SHA1-Digest: h+KfN7eQoyaPJe8hxu0eI8VJ+EI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instapaper.png
+SHA1-Digest: jhWkyVf15pr1PmKZAopLnCqXyBs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth_checked.png
+SHA1-Digest: lO7DxNr1iguLG8ZyNgd2cVAa/nk=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_linkedin.png
+SHA1-Digest: lW2RZaRiu+Hk8DdaNc4/ThNFWdg=
+
+Name: res/drawable-xhdpi/ssdk_oks_blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote_checked.png
+SHA1-Digest: y79IqNSAVrM9vr4XYscbpKnjICM=
+
+Name: res/drawable-hdpi/jindan3.png
+SHA1-Digest: KnTL7/HAj1t2tv0utDgIIQ/ws9Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_renren.png
+SHA1-Digest: UclB2VYHlAlsuNNMrJkFoBcl8hI=
+
+Name: res/drawable-xhdpi/ssdk_oks_btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: res/layout/activity_game2048.xml
+SHA1-Digest: /fjI6kp0UX/ZhRv2EQfYMB+ZKIs=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item_selected.xml
+SHA1-Digest: yAY1vrUv0JAB7nzyNRfPzZd5RBE=
+
+Name: res/layout/activity_myzixun.xml
+SHA1-Digest: Vwn2SgbSn7SXU9qt45kmLhKCIIo=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_line.png
+SHA1-Digest: 30kisNBr0toYZFFeTkllsiptuTc=
+
+Name: res/drawable-hdpi/red_package.png
+SHA1-Digest: 06knFNQRTbEFb+nY1eko29Rsz4Y=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_bg.9.png
+SHA1-Digest: P7IRxfdiUsTRzM4tMuJnE7aTWf8=
+
+Name: res/drawable-hdpi/jindan1.png
+SHA1-Digest: hoa/OzgF8rnVZ0JTWsdhkaq/x7Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan_checked.
+ png
+SHA1-Digest: L2o2qk7m/2PGRidHU0EHrAhgDTw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare.png
+SHA1-Digest: /7lF37H/xF/EMa4bX+IT89Hku24=
+
+Name: res/drawable-hdpi/p3.png
+SHA1-Digest: OTMRB1YHOgrfDUEBKFFU6kLeybg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog.png
+SHA1-Digest: wNZEO/0ZsxJboLnC/iN9/LPVJ8g=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory.png
+SHA1-Digest: fz0gUn1HdhF3Ls3VQCBxz9zcMG0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory_checked.png
+SHA1-Digest: aDr5R258V2DFztmGw5FGMuWWHrE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat.png
+SHA1-Digest: 61qXEU0gmvQjtYA4AD0eo6t4+UU=
+
+Name: res/drawable-xhdpi/ssdk_back_arr.png
+SHA1-Digest: Rxbe81v2AIEM7XxW8FOEQrQfDqA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_flickr.png
+SHA1-Digest: rzfSm+FwntK4tVkEiBZlXV2gjpQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwangmoments.png
+SHA1-Digest: lfgAwp3OxIHIGMDGbRgKl1yGS8s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan.png
+SHA1-Digest: gnMgutQKSnY4bpe58htpChrL/Kw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite.png
+SHA1-Digest: j3hp4Cj9NVcAOa9BBYW+V09nEko=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechat.png
+SHA1-Digest: G/pXSTfACj3pSNAdyPhi9GP04a0=
+
+Name: res/layout/activity_selector.xml
+SHA1-Digest: 3DZwXs8je/1JgKd9AnsdOTuA2rw=
+
+Name: res/menu/main.xml
+SHA1-Digest: 5gwqk0u5XXftvUIZjndsh1FbuBc=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwang.png
+SHA1-Digest: nGcwvlk7Pwxxyor+v2nVHT+qWO0=
+
+Name: res/drawable-hdpi/p4.png
+SHA1-Digest: CjbX+U8hra9XNdSTos1rdkxz310=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo.png
+SHA1-Digest: S64oIECwol9stSkn2QUM7XgZGlI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked_disabled.pn
+ g
+SHA1-Digest: knruN4XslE9zL23iJ0w2VqtKYcI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_evernote.png
+SHA1-Digest: zPCWHzvLx9zwRR5LKrPwMdj1U00=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram.png
+SHA1-Digest: kRS3lAntGEOMBphackbMtn3WJxI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook_checked.png
+SHA1-Digest: g4h2BnVv/+jiRoSUOpJL80JEkjE=
+
+Name: res/layout/activity_explosion.xml
+SHA1-Digest: Zt3qLC6Xhk6VBPZ/g2NWCF8/e7o=
+
+Name: res/drawable/selector_goldenegg_success_btn_bg.xml
+SHA1-Digest: oZZ/UagHZ1DmkZLJ7TfL67Q1O3M=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixin.png
+SHA1-Digest: Ynx6j0DvqB1R0Ntigj8oKizYcLo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren.png
+SHA1-Digest: XPiXNnXcs7MvqWtCTSGGNNJ7644=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments.png
+SHA1-Digest: TflSNm/Jl3/CDVxRHpsxyiDyjQw=
+
+Name: assets/ShareSDK.xml
+SHA1-Digest: VTpDDf2Wq7+Ogf5sjBMbdcYZJ3M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email.png
+SHA1-Digest: W82SFjQ3/qLS+8e3I6pQ0slofuI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin_checked.png
+SHA1-Digest: sOiJwiyF1yzpScnNIAHh9zuh3eU=
+
+Name: res/drawable-xhdpi/ssdk_oks_yaoyiyao.png
+SHA1-Digest: dqUGQ19sqlrOmEx9v50fZTnajpI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao.png
+SHA1-Digest: 1609/0hV1dsNrBs+h0km+47cI+c=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml
+SHA1-Digest: apQc9u/Cq34ZDGuRjZzTHMBpLu4=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list_item.xml
+SHA1-Digest: lb7Ck9lcTaEMjWDHmePqaK7kpX0=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item.xml
+SHA1-Digest: CT7T8KxNHcPCUNih0qsUSBesFzk=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qq.png
+SHA1-Digest: rGbqeKK4SIiunyk+LxzQw9BGtQU=
+
+Name: res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml
+SHA1-Digest: uHJhgi1FfQrlh5OkNincSfjxQno=
+
+Name: res/drawable-xhdpi/ssdk_oks_edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_ok_btn.png
+SHA1-Digest: oXmkDeSiTuz+JPINuzlzysTBKxc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq.png
+SHA1-Digest: z5bEP1fdVQPprvplahiukd//JWI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba.png
+SHA1-Digest: l68WV7pjjtX79frbX3BHrY2Vic0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line.png
+SHA1-Digest: Nr62ij6mKO3YK9OAS/DpDVrXoIw=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_mingdao.png
+SHA1-Digest: VTtOx8JAUATC69MVr1YSUNNxTAA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_googleplus.png
+SHA1-Digest: OTMRB1YHOgrfDUEBKFFU6kLeybg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger_check
+ ed.png
+SHA1-Digest: yfigC4PxDtvHWjaW4amy+pO5qlg=
+
+Name: res/layout/ssdk_oks_skyblue_share_actionbar.xml
+SHA1-Digest: f6fFen8NBfZV6P3itFjBNUnkEE8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare_checked.png
+SHA1-Digest: 5D1gbfjyWkEvz0atMqkqB1ETx+s=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_twitter.png
+SHA1-Digest: uUeEzosvKI882+kxC4xRoR1z6Iw=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/layout/activity_wechat.xml
+SHA1-Digest: V/KM1pZtRofYcZs7jcAR4HsCiMc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_close.png
+SHA1-Digest: txmJxAjvgTE1qsDASiGz/Eywsbc=
+
+Name: resources.arsc
+SHA1-Digest: kMxYcVQd0Cb1zj8wOZLOkywP2VU=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pocket.png
+SHA1-Digest: DhxOmAU0WHszniqYLS60YdOHZwI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lkKrJGN3Nm4GI3ekBFYURFJQ28M=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instagram.png
+SHA1-Digest: W8HByjvYzRb6tgdgyHvti44ukyI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban_checked.png
+SHA1-Digest: jeIZHoAJ0cmQ6KEmHYsoe32ohDM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat_checked.png
+SHA1-Digest: V+oqqhtS6tC6kxKh9MVqSEeEbOc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp_checked.png
+SHA1-Digest: /jlMMHUWSMlFJ+evjPYpYSP9d/M=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tumblr.png
+SHA1-Digest: R5zc5Kq+BwUY4bVgDCqej3mezA4=
+
+Name: res/layout/activity_double_listview.xml
+SHA1-Digest: iXA9vFEqnimnFMmrARvbWatScGw=
+
+Name: res/drawable/ssdk_oks_classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments_checked.pn
+ g
+SHA1-Digest: usC0FWYD6HxXeorNBkqQY8rVThM=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_dropbox.png
+SHA1-Digest: 9rS980XHIIAplisYZi5XKBpLPvY=
+
+Name: res/drawable-xhdpi/ssdk_oks_img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox.png
+SHA1-Digest: lnOQwcn4cwygNDFQBjQpRok/XCM=
+
+Name: res/layout/ssdk_oks_skyblue_editpage.xml
+SHA1-Digest: RNaBRfFlXkfin15GDkOyucGv2hA=
+
+Name: classes.dex
+SHA1-Digest: UQMSBCp/5O47bmpvqAY3DSnJbz4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte.png
+SHA1-Digest: oZjNxZ5FqY6kaOwoSnX6wefkTdA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_douban.png
+SHA1-Digest: zzHxqnXLcSiVYmvCsHYimrfF/xw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog.png
+SHA1-Digest: /rV4R5Mq9VG4F/nAUyZlGUtHX9s=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kaixin.png
+SHA1-Digest: CjbX+U8hra9XNdSTos1rdkxz310=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_youdao.png
+SHA1-Digest: pgvpHenF7cpbjw5ZaLfBs+H2lto=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao.png
+SHA1-Digest: Uy0ILMhYFMFLUKOy27/92DoaqwE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatmoments.png
+SHA1-Digest: ZO2E9To4ai1HUSZU0ie/+5Jdvy0=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba_checked.png
+SHA1-Digest: cPp1SjgjCzU8+Frycw4b91A80d0=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_bluetooth.png
+SHA1-Digest: cnZJ7vg+t4P/O78FN6L108saBMw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger.png
+SHA1-Digest: L9e+JG6HB5q6EvHo940bOc1L4PI=
+
+Name: res/layout/activity_goldenegg.xml
+SHA1-Digest: lMlJHB00UeDCU1vbnKXjBuDqY94=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk.png
+SHA1-Digest: +gFL82w/C/wPGQhfzBdvwRcT3n4=
+
+Name: res/anim/jindan.xml
+SHA1-Digest: 8lsTzOHlDeE/bai4qHnpWKyqhaM=
+
+Name: res/layout/activity_bottomlayout.xml
+SHA1-Digest: ElTujGxkORAuPnornX2n4+MB/T8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog_checked.p
+ ng
+SHA1-Digest: rC5lU6QuebrKSE5eW0Nt3lTbsIY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus_checked.png
+SHA1-Digest: o4loFVp6GifEHe12nt7LhnnUyXI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_vkontakte.png
+SHA1-Digest: qH3X3wSssc9hsXk+fDOLTcQ9HXE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram_checked.png
+SHA1-Digest: AwSztOYTTK0nE00FIlxSLPL/Guo=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_selector.xml
+SHA1-Digest: HJlF7z47hlC4+GNgycF0/Tu81c0=
+
+Name: res/drawable-hdpi/p1.png
+SHA1-Digest: 2i3QuMmwTysY42uYxYZq5SFGIF4=
+
+Name: res/drawable-hdpi/p6.png
+SHA1-Digest: G/pXSTfACj3pSNAdyPhi9GP04a0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth.png
+SHA1-Digest: fAJQ0PakAoy81UyeevZqjhss+CQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments_checked.
+ png
+SHA1-Digest: 6ALJXhEChYNSpGT/+7XCK9XXdoY=
+
+Name: res/layout/activity_biuedittext.xml
+SHA1-Digest: R7w10iVV+d7cs5AxTES28NFwmJ8=
+
+Name: res/layout/activity_gestureslock.xml
+SHA1-Digest: isTtRTgC7xnjm6vhfyMUS1RPQbk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest_checked.png
+SHA1-Digest: k5xRm0N72Tf620z8p9teEjs3Cbk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban.png
+SHA1-Digest: ABF6lvBi+H2OTIuqKF57IFEgUok=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook.png
+SHA1-Digest: xmIeow/+O0/xNjFkuyKPj4+Blqg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr.png
+SHA1-Digest: 4ZAgZ0zxQ1eOfQcGzFn5JvbggrU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin.png
+SHA1-Digest: 0OsdZqLfcevsaDrmkXfxjUUax4M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare.png
+SHA1-Digest: g8gR6icP+IKE25mWXl7B4W+2AzM=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_at_layout.xml
+SHA1-Digest: C+MKd/8vvjVl0ZJiItqCrcsgkJY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_remove.png
+SHA1-Digest: o4aH9//dYubOBnt7xM3t4h9wERQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr.png
+SHA1-Digest: VdJ0TwqSTAnSmL40tuG6r6Y90is=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage_checked.pn
+ g
+SHA1-Digest: dRwd/P2IYH47aqVb0ltlPzvDGtA=
+
+Name: res/drawable-xhdpi/ssdk_oks_light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebook.png
+SHA1-Digest: piJUVqxys3jTJlcx7kEANmv088g=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaostory.png
+SHA1-Digest: Zm/eChRJp7wNPv9OTMU1mxGDoos=
+
+Name: res/layout/item_main_list.xml
+SHA1-Digest: U7fuiuR3qFR3tArggYTyI5T4HvM=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter_checked.png
+SHA1-Digest: JIvX1bHs9K3rrsgrT+gRi9mOh9A=
+
+Name: res/drawable-hdpi/jindan2.png
+SHA1-Digest: kR71q4yUwHIV+mjsnqS0i7SGOBo=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_email.png
+SHA1-Digest: ulb4rEsmI3ikw1G1TaUd/AWfIbQ=
+
+Name: res/layout/item_animationlist.xml
+SHA1-Digest: UpqL3aLizqlvUhtOcd1vQbntFEU=
+
+Name: res/drawable-xhdpi/ssdk_auth_title_back.png
+SHA1-Digest: KcOU9zRA4LnWnGrzTb4Jvm+VpMQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo_checked.pn
+ g
+SHA1-Digest: e4IZ4I90u08w0F4ViAYsQGSjwz8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog_checke
+ d.png
+SHA1-Digest: Q3TH2Y3262J36uqhiRjGocrT/Rk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite_checked.
+ png
+SHA1-Digest: sTaDtp7viaocnWq+GScKvY5Ylw0=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_bg.9.png
+SHA1-Digest: rSb/UcjpSPAazqb0dm1UOxpwsF4=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qzone.png
+SHA1-Digest: tcfUq77aOBQoDGD0UI105dbRL3s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest.png
+SHA1-Digest: lHYnXTLW6v9sDl57uaTYu/6n2NE=
+

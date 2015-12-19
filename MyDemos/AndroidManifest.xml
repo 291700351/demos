@@ -1,173 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lb.myapidemo"
-    android:versionCode="1"
-    android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="21" />
-
-    <!-- wechat SDK start -->
-    <uses-permission android:name="android.permission.GET_TASKS" />
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <!-- wechat SDK end -->
-    <application
-        android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.lb.myapidemo.MainActivity"
-            android:label="@string/app_name" >
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lb.myapidemo">
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.lb.myapidemo.MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name="com.lb.myapidemo.activitys.BiuEditTextActivity" >
+        <activity android:name="com.lb.myapidemo.activitys.BiuEditTextActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.0" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.0"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-
-        <!-- 渠道号的Activity -->
-        <activity android:name="com.lb.myapidemo.channel.ChannelNumActivity" >
+        <activity android:name="com.lb.myapidemo.channel.ChannelNumActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.1"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 底部布局抽屉式出现和隐藏 -->
-        <activity android:name="com.lb.myapidemo.bottomlayout.BottomLayoutActivity" >
+        <activity android:name="com.lb.myapidemo.bottomlayout.BottomLayoutActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.2" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.2"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 状态栏通知的界面 -->
-        <activity android:name="com.lb.myapidemo.notice.NoticeActivity" >
+        <activity android:name="com.lb.myapidemo.notice.NoticeActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.3" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.3"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 点击通知栏跳转的页面 -->
-        <activity android:name="com.lb.myapidemo.notice.OtherActivity" >
-        </activity>
-        <!-- listview动画效果 -->
-        <activity android:name="com.lb.myapidemo.AnimationListActivity" >
+        <activity android:name="com.lb.myapidemo.notice.OtherActivity"/>
+        <activity android:name="com.lb.myapidemo.AnimationListActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.4" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.4"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 王景旭的按钮选择器的界面 -->
-        <activity android:name="com.lb.myapidemo.selector.SelectorActivity" >
+        <activity android:name="com.lb.myapidemo.selector.SelectorActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.5" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.5"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 微信分享的界面 -->
-        <activity android:name="com.lb.myapidemo.wechatshare.WeChatShareActivity" >
+        <activity android:name="com.lb.myapidemo.wechatshare.WeChatShareActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.6" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.6"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 手势解锁的界面 -->
-        <activity android:name="com.lb.myapidemo.lock.GesturesLockActivity" >
+        <activity android:name="com.lb.myapidemo.lock.GesturesLockActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.7" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.7"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 双列ListView -->
-        <activity android:name="com.lb.myapidemo.fragment.DoubleListViewActivity" >
+        <activity android:name="com.lb.myapidemo.fragment.DoubleListViewActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.8" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.8"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 砸金蛋活动 -->
-        <activity android:name="com.lb.myapidemo.egg.GoldenEggActivity" >
+        <activity android:name="com.lb.myapidemo.egg.GoldenEggActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.9" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.9"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <!-- 爆炸效果的界面 -->
-        <activity android:name="com.lb.myapidemo.explosion.ExplosionActivity" >
+        <activity android:name="com.lb.myapidemo.explosion.ExplosionActivity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.10" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.10"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.lb.myapidemo.egg.SuccessActivity"
-            android:theme="@style/translucent" >
-        </activity>
-        <!-- 2048游戏界面 -->
-        <activity android:name="com.lb.myapidemo.game.Game2048Activity" >
+        <activity android:name="com.lb.myapidemo.egg.SuccessActivity" android:theme="@style/translucent"/>
+        <activity android:name="com.lb.myapidemo.game.Game2048Activity">
             <intent-filter>
-                <action android:name="com.lb.myapidemo.11" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.lb.myapidemo.11"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-
-        <!-- 配置渠道号 -->
-        <!-- android:name="channel"======> 在Java代码通过这个键获取渠道号 -->
-        <!-- android:value="channel_00" =======>value里面就是配置的渠道号 ，你也可以对不同的市场使用不同的名字（比如：360应用市场：qihu360  百度市场：baidu。。 -->
-        <meta-data
-            android:name="channel"
-            android:value="channel_01" />
-
-        <!-- sharesdk -->
-        <activity
-            android:name="com.mob.tools.MobUIShell"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"
-            android:windowSoftInputMode="stateHidden|adjustResize" >
-
-            <!--
-            	AuthorizeAdapter表示一个继承自cn.sharesdk.framework.authorize.AuthorizeAdapter
-            	的类，这个类可以监听到页面的生命周期，也可以获取授权页面的各种UI控件。 
-            	开发者可以通过继承AuthorizeAdapter，重写其方法，并获取各种UI来自定义这个页面的行为。
-            -->
-            <meta-data
-                android:name="AuthorizeAdapter"
-                android:value="cn.sharesdk.demo.MyAdapter" />
+        <meta-data android:name="channel" android:value="channel_01"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.mob.tools.MobUIShell" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:windowSoftInputMode="stateHidden|adjustResize">
+            <meta-data android:name="AuthorizeAdapter" android:value="cn.sharesdk.demo.MyAdapter"/>
         </activity>
-
-        <!-- 微信分享回调 -->
-        <activity
-            android:name=".wxapi.WXEntryActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:exported="true"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name=".wxapi.WXEntryActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
     </application>
-
 </manifest>

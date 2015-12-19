@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="demos_name">
+        <item>00.BiuEditText</item>
+        <item>01.Get Android ChannelNum</item>
+        <item>02.底部弹出布局效果</item>
+        <item>03.状态栏通知</item>
+        <item>04.ListView动画效果展示</item>
+        <item>05.王景旭的按钮选择器</item>
+        <item>06.微信分享SDK</item>
+        <item>07.自己写的手势解锁</item>
+        <item>08.双列ListView</item>
+        <item>09.活动砸金蛋</item>
+        <item>10.爆炸效果</item>
+        <item>11.2048（未写完）</item>
+    </string-array>
+</resources>
