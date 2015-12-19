@@ -22,7 +22,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int biu_duration=0x7f010003;
+        public static final int biu_duration=0x7f010008;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -31,7 +31,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int biu_text_color=0x7f010000;
+        public static final int biu_text_color=0x7f010005;
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -39,7 +39,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int biu_text_scale=0x7f010002;
+        public static final int biu_text_scale=0x7f010007;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -49,19 +49,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int biu_text_start_size=0x7f010001;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int cardBackground=0x7f01000a;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int containerBackground=0x7f010009;
+        public static final int biu_text_start_size=0x7f010006;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -85,7 +73,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>slide_in</code></td><td>14</td><td></td></tr>
 </table>
          */
-        public static final int effect=0x7f010004;
+        public static final int effect=0x7f010000;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -93,7 +81,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int max_velocity=0x7f010008;
+        public static final int max_velocity=0x7f010004;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -101,7 +89,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int only_animate_fling=0x7f010006;
+        public static final int only_animate_fling=0x7f010002;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -109,15 +97,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int only_animate_new_items=0x7f010005;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int selectorBtn=0x7f01000d;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int selectorListItem=0x7f01000e;
+        public static final int only_animate_new_items=0x7f010001;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -125,33 +105,16 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int simulate_grid_with_list=0x7f010007;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int textColor=0x7f01000c;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int titleColor=0x7f01000b;
+        public static final int simulate_grid_with_list=0x7f010003;
     }
     public static final class color {
-        public static final int translucent=0x7f080001;
-        public static final int white=0x7f080000;
+        public static final int translucent=0x7f090001;
+        public static final int white=0x7f090000;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
  Default screen margins, per the Android Design guidelines. 
  Default screen margins, per the Android Design guidelines. 
- Default screen margins, per the Android Design guidelines. 
-
-         Customize dimensions originally defined in res/values/dimens.xml (such as
-         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
-    
          */
         public static final int activity_horizontal_margin=0x7f050000;
         public static final int activity_vertical_margin=0x7f050001;
@@ -330,81 +293,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ssdk_title_div=0x7f0200a9;
     }
     public static final class id {
-        public static final int action_settings=0x7f09004a;
-        public static final int actionbarLayout=0x7f090035;
-        public static final int atDescTextView=0x7f090041;
-        public static final int atLayout=0x7f09003c;
-        public static final int atTextView=0x7f090040;
-        public static final int backImageView=0x7f090044;
-        public static final int btn=0x7f090010;
-        public static final int btn1=0x7f090012;
-        public static final int btn2=0x7f090013;
-        public static final int btn3=0x7f090014;
-        public static final int btn_close=0x7f090016;
-        public static final int btn_commit=0x7f09001b;
-        public static final int btn_share=0x7f090031;
-        public static final int btn_showmsg=0x7f090033;
-        public static final int btn_start=0x7f090020;
-        public static final int cards=0x7f090002;
-        public static final int checkedImageView=0x7f090049;
-        public static final int closeImageView=0x7f090039;
-        public static final int curl=0x7f090003;
-        public static final int currentTimeView=0x7f090027;
-        public static final int cursor=0x7f09002d;
-        public static final int day=0x7f090030;
-        public static final int divider=0x7f09003a;
-        public static final int et1=0x7f090018;
-        public static final int et2=0x7f090019;
-        public static final int et3=0x7f09001a;
-        public static final int fade=0x7f09000c;
-        public static final int fan=0x7f090009;
-        public static final int flip=0x7f090005;
-        public static final int fly=0x7f090006;
-        public static final int full_screen_video=0x7f090025;
-        public static final int gameView=0x7f090021;
-        public static final int glv_lock=0x7f090022;
-        public static final int gridView=0x7f090046;
-        public static final int grow=0x7f090001;
-        public static final int hScrollView=0x7f09003e;
-        public static final int helix=0x7f090008;
-        public static final int ideoSeekBar=0x7f090029;
-        public static final int imageRemoveBtn=0x7f090043;
-        public static final int imageView=0x7f090042;
-        public static final int imagesLinearLayout=0x7f09003f;
-        public static final int iv_egg=0x7f090023;
-        public static final int list=0x7f09000f;
-        public static final int listview=0x7f09002a;
-        public static final int ll_bottom=0x7f090015;
-        public static final int logoImageView=0x7f090047;
-        public static final int lv_left=0x7f09001d;
-        public static final int lv_right=0x7f09001e;
-        public static final int mainRelLayout=0x7f090036;
-        public static final int mediaControllerLayout=0x7f090024;
-        public static final int nameTextView=0x7f090048;
-        public static final int night=0x7f09002f;
-        public static final int okImageView=0x7f090045;
-        public static final int playButton=0x7f090026;
-        public static final int reverse_fly=0x7f090007;
-        public static final int rl_all=0x7f090011;
-        public static final int root=0x7f09001f;
-        public static final int slide_in=0x7f09000e;
-        public static final int standard=0x7f090000;
-        public static final int textCounterTextView=0x7f09003d;
-        public static final int textEditText=0x7f09003b;
-        public static final int textview=0x7f09001c;
-        public static final int tilt=0x7f09000a;
-        public static final int titleEditText=0x7f090038;
-        public static final int titleLayout=0x7f090037;
-        public static final int totalTimeView=0x7f090028;
-        public static final int tv=0x7f090034;
-        public static final int tv_bottom_desc=0x7f090017;
-        public static final int tv_guid1=0x7f09002b;
-        public static final int tv_guid2=0x7f09002c;
-        public static final int twirl=0x7f09000d;
-        public static final int viewpager=0x7f09002e;
-        public static final int wave=0x7f090004;
-        public static final int webview=0x7f090032;
-        public static final int zipper=0x7f09000b;
+        public static final int action_settings=0x7f080040;
+        public static final int actionbarLayout=0x7f08002b;
+        public static final int atDescTextView=0x7f080037;
+        public static final int atLayout=0x7f080032;
+        public static final int atTextView=0x7f080036;
+        public static final int backImageView=0x7f08003a;
+        public static final int btn=0x7f080010;
+        public static final int btn1=0x7f080012;
+        public static final int btn2=0x7f080013;
+        public static final int btn3=0x7f080014;
+        public static final int btn_close=0x7f080016;
+        public static final int btn_commit=0x7f08001b;
+        public static final int btn_share=0x7f080029;
+        public static final int btn_showmsg=0x7f08004a;
+        public static final int btn_start=0x7f080020;
+        public static final int cards=0x7f080002;
+        public static final int checkedImageView=0x7f08003f;
+        public static final int closeImageView=0x7f08002f;
+        public static final int curl=0x7f080003;
+        public static final int currentTimeView=0x7f080044;
+        public static final int cursor=0x7f080027;
+        public static final int day=0x7f080048;
+        public static final int divider=0x7f080030;
+        public static final int et1=0x7f080018;
+        public static final int et2=0x7f080019;
+        public static final int et3=0x7f08001a;
+        public static final int fade=0x7f08000c;
+        public static final int fan=0x7f080009;
+        public static final int flip=0x7f080005;
+        public static final int fly=0x7f080006;
+        public static final int full_screen_video=0x7f080042;
+        public static final int gameView=0x7f080021;
+        public static final int glv_lock=0x7f080022;
+        public static final int gridView=0x7f08003c;
+        public static final int grow=0x7f080001;
+        public static final int hScrollView=0x7f080034;
+        public static final int helix=0x7f080008;
+        public static final int ideoSeekBar=0x7f080046;
+        public static final int imageRemoveBtn=0x7f080039;
+        public static final int imageView=0x7f080038;
+        public static final int imagesLinearLayout=0x7f080035;
+        public static final int iv_egg=0x7f080023;
+        public static final int list=0x7f08000f;
+        public static final int listview=0x7f080024;
+        public static final int ll_bottom=0x7f080015;
+        public static final int logoImageView=0x7f08003d;
+        public static final int lv_left=0x7f08001d;
+        public static final int lv_right=0x7f08001e;
+        public static final int mainRelLayout=0x7f08002c;
+        public static final int mediaControllerLayout=0x7f080041;
+        public static final int nameTextView=0x7f08003e;
+        public static final int night=0x7f080047;
+        public static final int okImageView=0x7f08003b;
+        public static final int playButton=0x7f080043;
+        public static final int reverse_fly=0x7f080007;
+        public static final int rl_all=0x7f080011;
+        public static final int root=0x7f08001f;
+        public static final int slide_in=0x7f08000e;
+        public static final int standard=0x7f080000;
+        public static final int textCounterTextView=0x7f080033;
+        public static final int textEditText=0x7f080031;
+        public static final int textview=0x7f08001c;
+        public static final int tilt=0x7f08000a;
+        public static final int titleEditText=0x7f08002e;
+        public static final int titleLayout=0x7f08002d;
+        public static final int totalTimeView=0x7f080045;
+        public static final int tv=0x7f08002a;
+        public static final int tv_bottom_desc=0x7f080017;
+        public static final int tv_guid1=0x7f080025;
+        public static final int tv_guid2=0x7f080026;
+        public static final int twirl=0x7f08000d;
+        public static final int viewpager=0x7f080028;
+        public static final int wave=0x7f080004;
+        public static final int webview=0x7f080049;
+        public static final int zipper=0x7f08000b;
     }
     public static final class layout {
         public static final int activity_animationlist=0x7f030000;
@@ -413,29 +376,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int activity_channel=0x7f030003;
         public static final int activity_double_listview=0x7f030004;
         public static final int activity_explosion=0x7f030005;
-        public static final int activity_fragment=0x7f030006;
-        public static final int activity_game2048=0x7f030007;
-        public static final int activity_game4028=0x7f030008;
-        public static final int activity_gestureslock=0x7f030009;
-        public static final int activity_goldenegg=0x7f03000a;
-        public static final int activity_layout=0x7f03000b;
-        public static final int activity_main=0x7f03000c;
-        public static final int activity_myzixun=0x7f03000d;
-        public static final int activity_nightandday=0x7f03000e;
-        public static final int activity_notice=0x7f03000f;
-        public static final int activity_selector=0x7f030010;
-        public static final int activity_success=0x7f030011;
-        public static final int activity_webviewwithjs=0x7f030012;
-        public static final int activity_wechat=0x7f030013;
-        public static final int anim=0x7f030014;
-        public static final int item_animationlist=0x7f030015;
-        public static final int item_main_list=0x7f030016;
-        public static final int ssdk_oks_skyblue_editpage=0x7f030017;
-        public static final int ssdk_oks_skyblue_editpage_at_layout=0x7f030018;
-        public static final int ssdk_oks_skyblue_editpage_inc_image_layout=0x7f030019;
-        public static final int ssdk_oks_skyblue_share_actionbar=0x7f03001a;
-        public static final int ssdk_oks_skyblue_share_platform_list=0x7f03001b;
-        public static final int ssdk_oks_skyblue_share_platform_list_item=0x7f03001c;
+        public static final int activity_fragment=0x7f030017;
+        public static final int activity_game2048=0x7f030006;
+        public static final int activity_game4028=0x7f030018;
+        public static final int activity_gestureslock=0x7f030007;
+        public static final int activity_goldenegg=0x7f030008;
+        public static final int activity_layout=0x7f030019;
+        public static final int activity_main=0x7f030009;
+        public static final int activity_myzixun=0x7f03000a;
+        public static final int activity_nightandday=0x7f03001a;
+        public static final int activity_notice=0x7f03000b;
+        public static final int activity_selector=0x7f03000c;
+        public static final int activity_success=0x7f03000d;
+        public static final int activity_webviewwithjs=0x7f03001b;
+        public static final int activity_wechat=0x7f03000e;
+        public static final int anim=0x7f03001c;
+        public static final int item_animationlist=0x7f03000f;
+        public static final int item_main_list=0x7f030010;
+        public static final int ssdk_oks_skyblue_editpage=0x7f030011;
+        public static final int ssdk_oks_skyblue_editpage_at_layout=0x7f030012;
+        public static final int ssdk_oks_skyblue_editpage_inc_image_layout=0x7f030013;
+        public static final int ssdk_oks_skyblue_share_actionbar=0x7f030014;
+        public static final int ssdk_oks_skyblue_share_platform_list=0x7f030015;
+        public static final int ssdk_oks_skyblue_share_platform_list_item=0x7f030016;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;
@@ -543,67 +506,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
-
-        Base application theme, dependent on API level. This theme is replaced
-        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-        Base application theme for API 11+. This theme completely replaces
-        AppBaseTheme from res/values/styles.xml on API 11+ devices.
-    
- API 11 theme customizations can go here. 
-
-        Base application theme for API 14+. This theme completely replaces
-        AppBaseTheme from BOTH res/values/styles.xml and
-        res/values-v11/styles.xml on API 14+ devices.
-    
- API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
- All customizations that are NOT specific to a particular API-level can go here. 
- Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f070001;
@@ -627,7 +532,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #BiuEditStyle_biu_text_start_size
          */
         public static final int[] BiuEditStyle = {
-            0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003
+            0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008
         };
         /**
           <p>This symbol is the offset where the {@link com.lb.myapidemo.R.attr#biu_duration}
@@ -707,8 +612,8 @@ containing a value of this type.
            @see #JazzyListView_simulate_grid_with_list
          */
         public static final int[] JazzyListView = {
-            0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007,
-            0x7f010008
+            0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003,
+            0x7f010004
         };
         /**
           <p>This symbol is the offset where the {@link com.lb.myapidemo.R.attr#effect}
