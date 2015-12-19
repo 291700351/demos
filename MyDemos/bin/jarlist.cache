@@ -1,7 +1,7 @@
 # cache for current jar dependecy. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1450502325987 385685 48c94ae70fa65718b382098237806a5909bb096e C:\Users\xiaofuweng\Desktop\222\demos\LibBiuEditText\libs\android-support-v4.jar
-1450502326580 385685 48c94ae70fa65718b382098237806a5909bb096e C:\Users\xiaofuweng\Desktop\222\demos\MyDemos\libs\android-support-v4.jar
-1450502326056 385685 48c94ae70fa65718b382098237806a5909bb096e C:\Users\xiaofuweng\Desktop\222\demos\LibExplosion\libs\android-support-v4.jar
-1450502325899 385685 48c94ae70fa65718b382098237806a5909bb096e C:\Users\xiaofuweng\Desktop\222\demos\LibAnimationList\libs\android-support-v4.jar
+1450502733819 385685 48c94ae70fa65718b382098237806a5909bb096e D:\eclipse_workspace\android\hahadd\demos\LibAnimationList\libs\android-support-v4.jar
+1450502735723 385685 48c94ae70fa65718b382098237806a5909bb096e D:\eclipse_workspace\android\hahadd\demos\LibBiuEditText\libs\android-support-v4.jar
+1450502733070 385685 48c94ae70fa65718b382098237806a5909bb096e D:\eclipse_workspace\android\hahadd\demos\LibExplosion\libs\android-support-v4.jar
+1450502735127 385685 48c94ae70fa65718b382098237806a5909bb096e D:\eclipse_workspace\android\hahadd\demos\MyDemos\libs\android-support-v4.jar
