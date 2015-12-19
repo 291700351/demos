@@ -15,12 +15,14 @@
  */
 package com.twotoasters.jazzylistview;
 
+import java.util.HashSet;
+
+import android.R;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewPropertyAnimator;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.AbsListView;
 
@@ -39,8 +41,6 @@ import com.twotoasters.jazzylistview.effects.TiltEffect;
 import com.twotoasters.jazzylistview.effects.TwirlEffect;
 import com.twotoasters.jazzylistview.effects.WaveEffect;
 import com.twotoasters.jazzylistview.effects.ZipperEffect;
-
-import java.util.HashSet;
 
 public class JazzyHelper implements AbsListView.OnScrollListener {
 

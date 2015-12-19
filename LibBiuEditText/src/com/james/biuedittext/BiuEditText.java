@@ -1,9 +1,7 @@
 package com.james.biuedittext;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
-import android.animation.AnimatorSet;
-import android.animation.ObjectAnimator;
+import java.util.Random;
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -17,8 +15,6 @@ import android.view.WindowManager;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.EditText;
 import android.widget.TextView;
-
-import java.util.Random;
 
 /**
  * Created by james on 22/11/15.
