@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string-array name="demos_name">
         <item>00.BiuEditText</item>
         <item>01.Get Android ChannelNum</item>
@@ -13,5 +14,7 @@
         <item>09.活动砸金蛋</item>
         <item>10.爆炸效果</item>
         <item>11.2048（未写完）</item>
+        <item>12.Activity进入和突出动画效果</item>
     </string-array>
+
 </resources>

@@ -9,7 +9,27 @@ package com.lb.myapidemo;
 
 public final class R {
     public static final class anim {
+        public static final int appear_bottom_right_in=0x7f040001;
+        public static final int appear_bottom_right_out=0x7f040002;
+        public static final int appear_top_left_in=0x7f040003;
+        public static final int appear_top_left_out=0x7f040004;
+        public static final int disappear_bottom_right_in=0x7f040005;
+        public static final int disappear_bottom_right_out=0x7f040006;
+        public static final int disappear_top_left_in=0x7f040007;
+        public static final int disappear_top_left_out=0x7f040008;
+        public static final int fade_in=0x7f040009;
+        public static final int fade_out=0x7f04000a;
+        public static final int flip_horizontal_in=0x7f04000b;
+        public static final int flip_horizontal_out=0x7f04000c;
+        public static final int flip_vertical_in=0x7f04000d;
+        public static final int flip_vertical_out=0x7f04000e;
         public static final int jindan=0x7f040000;
+        public static final int pull_in_left=0x7f04000f;
+        public static final int pull_in_right=0x7f040010;
+        public static final int push_out_left=0x7f040011;
+        public static final int push_out_right=0x7f040012;
+        public static final int unzoom_in=0x7f040013;
+        public static final int unzoom_out=0x7f040014;
     }
     public static final class array {
         public static final int demos_name=0x7f0a0000;
@@ -506,9 +526,31 @@ containing a value of this type.
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
+
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    
+ API 11 theme customizations can go here. 
+
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    
+ API 14 theme customizations can go here. 
+
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
          */
         public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
+ All customizations that are NOT specific to a particular API-level can go here. 
+ Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f070001;
