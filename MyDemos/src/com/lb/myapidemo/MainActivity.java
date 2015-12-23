@@ -8,6 +8,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import cn.jpush.android.api.JPushInterface;
 
 /**
  * 程序的路口类
@@ -17,7 +18,7 @@ import android.widget.ListView;
  */
 public class MainActivity extends Activity {
 
-	private String[] demoNames;//存放所有例子名字的数组
+	private String[] demoNames;// 存放所有例子名字的数组
 	private ListView listview;
 
 	@Override
@@ -30,6 +31,7 @@ public class MainActivity extends Activity {
 		findView();
 
 		setListener();
+		// showToast(this, "NIHAOAOAOAO");
 
 		setData();
 	}
@@ -71,6 +73,19 @@ public class MainActivity extends Activity {
 		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
 				R.layout.item_main_list, R.id.textview, demoNames);
 		listview.setAdapter(adapter);
+
+	}
+
+	@Override
+	protected void onResume() {
+		JPushInterface.onResume(this);
+		super.onResume();
+	}
+
+	@Override
+	protected void onPause() {
+		JPushInterface.onPause(this);
+		super.onPause();
 	}
 
 }

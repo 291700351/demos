@@ -142,6 +142,8 @@ containing a value of this type.
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int ic_richpush_actionbar_back=0x7f0200aa;
+        public static final int ic_richpush_actionbar_divider=0x7f0200ab;
         public static final int jindan1=0x7f020001;
         public static final int jindan2=0x7f020002;
         public static final int jindan3=0x7f020003;
@@ -152,10 +154,12 @@ containing a value of this type.
         public static final int p5=0x7f020008;
         public static final int p6=0x7f020009;
         public static final int red_package=0x7f02000a;
+        public static final int richpush_btn_selector=0x7f0200ac;
         public static final int selector_btn=0x7f02000b;
         public static final int selector_goldenegg_success_btn_bg=0x7f02000c;
         public static final int shape_btn_gray=0x7f02000d;
         public static final int shape_btn_red=0x7f02000e;
+        public static final int shape_qiangdan=0x7f0200ad;
         public static final int ssdk_auth_title_back=0x7f02000f;
         public static final int ssdk_back_arr=0x7f020010;
         public static final int ssdk_logo=0x7f020011;
@@ -315,6 +319,7 @@ containing a value of this type.
     public static final class id {
         public static final int action_settings=0x7f080040;
         public static final int actionbarLayout=0x7f08002b;
+        public static final int actionbarLayoutId=0x7f08004b;
         public static final int atDescTextView=0x7f080037;
         public static final int atLayout=0x7f080032;
         public static final int atTextView=0x7f080036;
@@ -331,6 +336,7 @@ containing a value of this type.
         public static final int cards=0x7f080002;
         public static final int checkedImageView=0x7f08003f;
         public static final int closeImageView=0x7f08002f;
+        public static final int content=0x7f080050;
         public static final int curl=0x7f080003;
         public static final int currentTimeView=0x7f080044;
         public static final int cursor=0x7f080027;
@@ -343,6 +349,7 @@ containing a value of this type.
         public static final int fan=0x7f080009;
         public static final int flip=0x7f080005;
         public static final int fly=0x7f080006;
+        public static final int fullWebView=0x7f08004f;
         public static final int full_screen_video=0x7f080042;
         public static final int gameView=0x7f080021;
         public static final int glv_lock=0x7f080022;
@@ -354,6 +361,8 @@ containing a value of this type.
         public static final int imageRemoveBtn=0x7f080039;
         public static final int imageView=0x7f080038;
         public static final int imagesLinearLayout=0x7f080035;
+        public static final int imgRichpushBtnBack=0x7f08004c;
+        public static final int imgView=0x7f08004d;
         public static final int iv_egg=0x7f080023;
         public static final int list=0x7f08000f;
         public static final int listview=0x7f080024;
@@ -380,6 +389,7 @@ containing a value of this type.
         public static final int titleLayout=0x7f08002d;
         public static final int totalTimeView=0x7f080045;
         public static final int tv=0x7f08002a;
+        public static final int tvRichpushTitle=0x7f08004e;
         public static final int tv_bottom_desc=0x7f080017;
         public static final int tv_guid1=0x7f080025;
         public static final int tv_guid2=0x7f080026;
@@ -413,12 +423,14 @@ containing a value of this type.
         public static final int anim=0x7f03001c;
         public static final int item_animationlist=0x7f03000f;
         public static final int item_main_list=0x7f030010;
+        public static final int jpush_webview_layout=0x7f03001d;
         public static final int ssdk_oks_skyblue_editpage=0x7f030011;
         public static final int ssdk_oks_skyblue_editpage_at_layout=0x7f030012;
         public static final int ssdk_oks_skyblue_editpage_inc_image_layout=0x7f030013;
         public static final int ssdk_oks_skyblue_share_actionbar=0x7f030014;
         public static final int ssdk_oks_skyblue_share_platform_list=0x7f030015;
         public static final int ssdk_oks_skyblue_share_platform_list_item=0x7f030016;
+        public static final int toast_custom=0x7f03001e;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;

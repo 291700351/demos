@@ -35,6 +35,8 @@ int dimen activity_horizontal_margin 0x7f050000
 int dimen activity_vertical_margin 0x7f050001
 int dimen biu_text_start_size 0x7f050002
 int drawable ic_launcher 0x7f020000
+int drawable ic_richpush_actionbar_back 0x7f0200aa
+int drawable ic_richpush_actionbar_divider 0x7f0200ab
 int drawable jindan1 0x7f020001
 int drawable jindan2 0x7f020002
 int drawable jindan3 0x7f020003
@@ -45,10 +47,12 @@ int drawable p4 0x7f020007
 int drawable p5 0x7f020008
 int drawable p6 0x7f020009
 int drawable red_package 0x7f02000a
+int drawable richpush_btn_selector 0x7f0200ac
 int drawable selector_btn 0x7f02000b
 int drawable selector_goldenegg_success_btn_bg 0x7f02000c
 int drawable shape_btn_gray 0x7f02000d
 int drawable shape_btn_red 0x7f02000e
+int drawable shape_qiangdan 0x7f0200ad
 int drawable ssdk_auth_title_back 0x7f02000f
 int drawable ssdk_back_arr 0x7f020010
 int drawable ssdk_logo 0x7f020011
@@ -206,6 +210,7 @@ int drawable ssdk_oks_yaoyiyao 0x7f0200a8
 int drawable ssdk_title_div 0x7f0200a9
 int id action_settings 0x7f080040
 int id actionbarLayout 0x7f08002b
+int id actionbarLayoutId 0x7f08004b
 int id atDescTextView 0x7f080037
 int id atLayout 0x7f080032
 int id atTextView 0x7f080036
@@ -222,6 +227,7 @@ int id btn_start 0x7f080020
 int id cards 0x7f080002
 int id checkedImageView 0x7f08003f
 int id closeImageView 0x7f08002f
+int id content 0x7f080050
 int id curl 0x7f080003
 int id currentTimeView 0x7f080044
 int id cursor 0x7f080027
@@ -234,6 +240,7 @@ int id fade 0x7f08000c
 int id fan 0x7f080009
 int id flip 0x7f080005
 int id fly 0x7f080006
+int id fullWebView 0x7f08004f
 int id full_screen_video 0x7f080042
 int id gameView 0x7f080021
 int id glv_lock 0x7f080022
@@ -245,6 +252,8 @@ int id ideoSeekBar 0x7f080046
 int id imageRemoveBtn 0x7f080039
 int id imageView 0x7f080038
 int id imagesLinearLayout 0x7f080035
+int id imgRichpushBtnBack 0x7f08004c
+int id imgView 0x7f08004d
 int id iv_egg 0x7f080023
 int id list 0x7f08000f
 int id listview 0x7f080024
@@ -271,6 +280,7 @@ int id titleEditText 0x7f08002e
 int id titleLayout 0x7f08002d
 int id totalTimeView 0x7f080045
 int id tv 0x7f08002a
+int id tvRichpushTitle 0x7f08004e
 int id tv_bottom_desc 0x7f080017
 int id tv_guid1 0x7f080025
 int id tv_guid2 0x7f080026
@@ -302,12 +312,14 @@ int layout activity_wechat 0x7f03000e
 int layout anim 0x7f03001c
 int layout item_animationlist 0x7f03000f
 int layout item_main_list 0x7f030010
+int layout jpush_webview_layout 0x7f03001d
 int layout ssdk_oks_skyblue_editpage 0x7f030011
 int layout ssdk_oks_skyblue_editpage_at_layout 0x7f030012
 int layout ssdk_oks_skyblue_editpage_inc_image_layout 0x7f030013
 int layout ssdk_oks_skyblue_share_actionbar 0x7f030014
 int layout ssdk_oks_skyblue_share_platform_list 0x7f030015
 int layout ssdk_oks_skyblue_share_platform_list_item 0x7f030016
+int layout toast_custom 0x7f03001e
 int menu main 0x7f0b0000
 int string action_settings 0x7f060001
 int string app_name 0x7f060000

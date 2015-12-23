@@ -62,9 +62,9 @@ public class ExplosionActivity extends Activity {
 				reset(parent.getChildAt(i));
 			}
 		} else {
-			 root.setScaleX(1);
-			 root.setScaleY(1);
-			 root.setAlpha(1);
+			root.setScaleX(1);
+			root.setScaleY(1);
+			root.setAlpha(1);
 		}
 	}
 }
