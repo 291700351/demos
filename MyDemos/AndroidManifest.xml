@@ -165,6 +165,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <!-- textView的展开和关闭效果的界面 -->
+        <activity android:name="com.lb.myapidemo.text.TextViewOpenAndCloseActivity" >
+            <intent-filter>
+                <action android:name="com.lb.myapidemo.14" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
         <meta-data
             android:name="channel"

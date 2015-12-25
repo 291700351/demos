@@ -319,7 +319,7 @@ containing a value of this type.
     public static final class id {
         public static final int action_settings=0x7f080040;
         public static final int actionbarLayout=0x7f08002b;
-        public static final int actionbarLayoutId=0x7f08004b;
+        public static final int actionbarLayoutId=0x7f08004d;
         public static final int atDescTextView=0x7f080037;
         public static final int atLayout=0x7f080032;
         public static final int atTextView=0x7f080036;
@@ -331,16 +331,17 @@ containing a value of this type.
         public static final int btn_close=0x7f080016;
         public static final int btn_commit=0x7f08001b;
         public static final int btn_share=0x7f080029;
-        public static final int btn_showmsg=0x7f08004a;
+        public static final int btn_showmsg=0x7f08004c;
         public static final int btn_start=0x7f080020;
         public static final int cards=0x7f080002;
         public static final int checkedImageView=0x7f08003f;
         public static final int closeImageView=0x7f08002f;
-        public static final int content=0x7f080050;
+        public static final int content=0x7f080052;
         public static final int curl=0x7f080003;
         public static final int currentTimeView=0x7f080044;
         public static final int cursor=0x7f080027;
         public static final int day=0x7f080048;
+        public static final int desc=0x7f080049;
         public static final int divider=0x7f080030;
         public static final int et1=0x7f080018;
         public static final int et2=0x7f080019;
@@ -349,7 +350,7 @@ containing a value of this type.
         public static final int fan=0x7f080009;
         public static final int flip=0x7f080005;
         public static final int fly=0x7f080006;
-        public static final int fullWebView=0x7f08004f;
+        public static final int fullWebView=0x7f080051;
         public static final int full_screen_video=0x7f080042;
         public static final int gameView=0x7f080021;
         public static final int glv_lock=0x7f080022;
@@ -361,8 +362,8 @@ containing a value of this type.
         public static final int imageRemoveBtn=0x7f080039;
         public static final int imageView=0x7f080038;
         public static final int imagesLinearLayout=0x7f080035;
-        public static final int imgRichpushBtnBack=0x7f08004c;
-        public static final int imgView=0x7f08004d;
+        public static final int imgRichpushBtnBack=0x7f08004e;
+        public static final int imgView=0x7f08004f;
         public static final int iv_egg=0x7f080023;
         public static final int list=0x7f08000f;
         public static final int listview=0x7f080024;
@@ -375,6 +376,7 @@ containing a value of this type.
         public static final int nameTextView=0x7f08003e;
         public static final int night=0x7f080047;
         public static final int okImageView=0x7f08003b;
+        public static final int open=0x7f08004a;
         public static final int playButton=0x7f080043;
         public static final int reverse_fly=0x7f080007;
         public static final int rl_all=0x7f080011;
@@ -389,14 +391,14 @@ containing a value of this type.
         public static final int titleLayout=0x7f08002d;
         public static final int totalTimeView=0x7f080045;
         public static final int tv=0x7f08002a;
-        public static final int tvRichpushTitle=0x7f08004e;
+        public static final int tvRichpushTitle=0x7f080050;
         public static final int tv_bottom_desc=0x7f080017;
         public static final int tv_guid1=0x7f080025;
         public static final int tv_guid2=0x7f080026;
         public static final int twirl=0x7f08000d;
         public static final int viewpager=0x7f080028;
         public static final int wave=0x7f080004;
-        public static final int webview=0x7f080049;
+        public static final int webview=0x7f08004b;
         public static final int zipper=0x7f08000b;
     }
     public static final class layout {
@@ -418,19 +420,20 @@ containing a value of this type.
         public static final int activity_notice=0x7f03000b;
         public static final int activity_selector=0x7f03000c;
         public static final int activity_success=0x7f03000d;
-        public static final int activity_webviewwithjs=0x7f03001b;
+        public static final int activity_text_open_and_close=0x7f03001b;
+        public static final int activity_webviewwithjs=0x7f03001c;
         public static final int activity_wechat=0x7f03000e;
-        public static final int anim=0x7f03001c;
+        public static final int anim=0x7f03001d;
         public static final int item_animationlist=0x7f03000f;
         public static final int item_main_list=0x7f030010;
-        public static final int jpush_webview_layout=0x7f03001d;
+        public static final int jpush_webview_layout=0x7f03001e;
         public static final int ssdk_oks_skyblue_editpage=0x7f030011;
         public static final int ssdk_oks_skyblue_editpage_at_layout=0x7f030012;
         public static final int ssdk_oks_skyblue_editpage_inc_image_layout=0x7f030013;
         public static final int ssdk_oks_skyblue_share_actionbar=0x7f030014;
         public static final int ssdk_oks_skyblue_share_platform_list=0x7f030015;
         public static final int ssdk_oks_skyblue_share_platform_list_item=0x7f030016;
-        public static final int toast_custom=0x7f03001e;
+        public static final int toast_custom=0x7f03001f;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;
