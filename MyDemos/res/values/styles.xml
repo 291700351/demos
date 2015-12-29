@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+
     <style name="AppTheme" parent="@style/AppBaseTheme" />
+
     <style name="translucent">
         <item name="android:windowBackground">@color/translucent</item>
         <item name="android:windowNoTitle">true</item>
@@ -9,4 +12,13 @@
         <item name="android:windowAnimationStyle">@android:style/Animation</item>
         <item name="android:colorBackgroundCacheHint">@null</item>
     </style>
+
+    <style name="dateStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
 </resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:text="法国外籍军团简介"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:background="#2b2b2b2b" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:text="法国外籍军团(法语Legion etrangere,英语French Foreign Legion)是由外国志愿兵组成的陆军正规部队，拥有和法国正规军同样的装备，由来自136个国家和地区约8000名志愿者组成。创立于1831年，当时为了解决法国国内的外国人犯罪问题，同时补充战争中死伤的法国军队兵员，由当时的法国国王路易·菲利浦斯(在位1830-1848)下令组建。志愿者加入时可以隐瞒国籍和姓名，假名或改名也可以。因此曾经有很多罪犯加入，2000年以来开始对志愿者的经历进行详细调查，曾经服过刑的人已经无法参加了，加入者可以拒绝参加针对母国的战斗。外籍兵团组建后参加了阿尔及利亚战争，墨西哥远征，以及之后的第一次世界大战，第二次世界大战，刚果、波黑战争、第一次海湾战争等。除战争活动外，缅甸的维和援助活动、海地的镇压暴动、印度洋地震的灾害援助也可以见到法国外籍军团的身影。"
+            android:textColor="#2b2b2b"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:background="#2b2b2b2b" />
+
+        <TextView
+            android:id="@+id/open"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:text="展开全部"
+            android:textColor="#2b2b2b2b"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

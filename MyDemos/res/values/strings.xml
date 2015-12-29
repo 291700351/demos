@@ -91,4 +91,13 @@
     <string name="ssdk_share_to_mingdao">分享到明道</string>
     <string name="ssdk_share_to_qzone_default">来自%s的分享</string>
     <string name="ssdk_use_login_button">请改用“登录”按钮</string>
+  
+      
+    <string name="sunday">日</string>  
+    <string name="monday">一</string>  
+    <string name="thesday">二</string>  
+    <string name="wednesday">三</string>  
+    <string name="thursday">四</string>  
+    <string name="friday">五</string>  
+    <string name="saturday">六</string>
 </resources>

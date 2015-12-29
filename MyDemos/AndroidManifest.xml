@@ -181,6 +181,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <!-- 日历控件的demo -->
+        <activity android:name="com.lb.myapidemo.calendar.CalendarViewActivity" >
+            <intent-filter>
+                <action android:name="com.lb.myapidemo.16" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
         <meta-data
             android:name="channel"

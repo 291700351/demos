@@ -8,36 +8,36 @@ package com.twotoasters.jazzylistview;
 
 public final class R {
 	public static final class id {
-		public static final int fade = 0x7f08000c;
-		public static final int standard = 0x7f080000;
-		public static final int tilt = 0x7f08000a;
-		public static final int action_settings = 0x7f080040;
-		public static final int reverse_fly = 0x7f080007;
-		public static final int curl = 0x7f080003;
-		public static final int fan = 0x7f080009;
-		public static final int fly = 0x7f080006;
-		public static final int grow = 0x7f080001;
-		public static final int helix = 0x7f080008;
-		public static final int wave = 0x7f080004;
-		public static final int slide_in = 0x7f08000e;
-		public static final int zipper = 0x7f08000b;
-		public static final int twirl = 0x7f08000d;
-		public static final int flip = 0x7f080005;
-		public static final int cards = 0x7f080002;
+		public static final int fade = 0x7f09000c;
+		public static final int standard = 0x7f090000;
+		public static final int tilt = 0x7f09000a;
+		public static final int action_settings = 0x7f090040;
+		public static final int reverse_fly = 0x7f090007;
+		public static final int curl = 0x7f090003;
+		public static final int fan = 0x7f090009;
+		public static final int fly = 0x7f090006;
+		public static final int grow = 0x7f090001;
+		public static final int helix = 0x7f090008;
+		public static final int wave = 0x7f090004;
+		public static final int slide_in = 0x7f09000e;
+		public static final int zipper = 0x7f09000b;
+		public static final int twirl = 0x7f09000d;
+		public static final int flip = 0x7f090005;
+		public static final int cards = 0x7f090002;
 	}
 	public static final class string {
-		public static final int action_settings = 0x7f060001;
-		public static final int app_name = 0x7f060000;
-		public static final int hello_world = 0x7f060002;
+		public static final int action_settings = 0x7f050001;
+		public static final int app_name = 0x7f050000;
+		public static final int hello_world = 0x7f050002;
 	}
 	public static final class menu {
 		public static final int main = 0x7f0b0000;
 	}
 	public static final class layout {
-		public static final int activity_main = 0x7f030009;
+		public static final int activity_main = 0x7f03000d;
 	}
 	public static final class styleable {
-		public static final int[] JazzyListView = { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 };
+		public static final int[] JazzyListView = { 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008 };
 		public static final int JazzyListView_max_velocity = 4;
 		public static final int JazzyListView_only_animate_new_items = 1;
 		public static final int JazzyListView_effect = 0;
@@ -48,14 +48,14 @@ public final class R {
 		public static final int ic_launcher = 0x7f020000;
 	}
 	public static final class attr {
-		public static final int effect = 0x7f010000;
-		public static final int only_animate_fling = 0x7f010002;
-		public static final int max_velocity = 0x7f010004;
-		public static final int only_animate_new_items = 0x7f010001;
-		public static final int simulate_grid_with_list = 0x7f010003;
+		public static final int effect = 0x7f010004;
+		public static final int only_animate_fling = 0x7f010006;
+		public static final int max_velocity = 0x7f010008;
+		public static final int only_animate_new_items = 0x7f010005;
+		public static final int simulate_grid_with_list = 0x7f010007;
 	}
 	public static final class dimen {
-		public static final int activity_vertical_margin = 0x7f050001;
-		public static final int activity_horizontal_margin = 0x7f050000;
+		public static final int activity_vertical_margin = 0x7f070001;
+		public static final int activity_horizontal_margin = 0x7f070000;
 	}
 }

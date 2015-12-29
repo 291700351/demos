@@ -18,6 +18,7 @@
         <item>13.滴滴抢单</item>
         <item>14.详细介绍的展开和收起</item>
         <item>15.动态添加TextView标签</item>
+        <item>16.日历控件</item>
     </string-array>
 
 </resources>
