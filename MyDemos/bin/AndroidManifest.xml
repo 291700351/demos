@@ -173,6 +173,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <!-- 动态添加textview标签 -->
+        <activity android:name="com.lb.myapidemo.flowlayout.FlowLayoutActivity" >
+            <intent-filter>
+                <action android:name="com.lb.myapidemo.15" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
         <meta-data
             android:name="channel"
@@ -186,6 +194,15 @@
             <meta-data
                 android:name="AuthorizeAdapter"
                 android:value="cn.sharesdk.demo.MyAdapter" />
+
+            <intent-filter>
+                <data android:scheme="tencent1105049148" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".wxapi.WXEntryActivity"

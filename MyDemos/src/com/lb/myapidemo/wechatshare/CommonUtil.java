@@ -41,6 +41,15 @@ public class CommonUtil {
 		// 设置标题
 		oks.setTitle(title);
 
+		oks.setTitleUrl("https://www.edianlicai.com");
+		
+		// site是分享此内容的网站名称，仅在QQ空间使用
+		oks.setSite("艺典理财");
+		// siteUrl是分享此内容的网站地址，仅在QQ空间使用
+		oks.setSiteUrl("http://www.baidu.com");
+		
+		oks.setSilent(true);
+
 		// 设置分享内容
 		oks.setText(msg);
 

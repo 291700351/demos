@@ -17,6 +17,7 @@
         <item>12.Activity进入和退出动画效果</item>
         <item>13.滴滴抢单</item>
         <item>14.详细介绍的展开和收起</item>
+        <item>15.动态添加TextView标签</item>
     </string-array>
 
 </resources>

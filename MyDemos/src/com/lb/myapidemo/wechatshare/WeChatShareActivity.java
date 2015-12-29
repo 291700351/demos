@@ -1,12 +1,18 @@
 package com.lb.myapidemo.wechatshare;
 
+import java.util.HashMap;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+import cn.sharesdk.framework.Platform;
+import cn.sharesdk.framework.PlatformActionListener;
+
 import com.lb.myapidemo.R;
+import com.lb.myapidemo.utils.LogUtil;
 
 /**
  * 微信分享的SDK的Demo com.lb.myapidemo.wechatshare.WeChatShareActivity
@@ -62,7 +68,29 @@ public class WeChatShareActivity extends Activity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 		case R.id.btn_share:
-			CommonUtil.showShare(this, "艺点理财", "艺点理财分享送现金", null, null, null);
+			CommonUtil.showShare(this, "艺点理财", "艺点理财分享送现金", null, null,
+					new PlatformActionListener() {
+
+						@Override
+						public void onError(Platform arg0, int arg1,
+								Throwable arg2) {
+							LogUtil.e(this, arg2);
+
+						}
+
+						@Override
+						public void onComplete(Platform arg0, int arg1,
+								HashMap<String, Object> arg2) {
+							// TODO Auto-generated method stub
+
+						}
+
+						@Override
+						public void onCancel(Platform arg0, int arg1) {
+							// TODO Auto-generated method stub
+
+						}
+					});
 			break;
 		}
 	}
